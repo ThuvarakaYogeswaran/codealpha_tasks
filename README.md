@@ -54,7 +54,7 @@ analyze distributions, test hypotheses, and uncover patterns in survival.
 ### 🖼️ Key Visuals
 
 **Missing Values Heatmap**
-![Missing Values](Task 2/images/01_missing_values.png)
+![Missing Values](Task2/images/01_missing_values.png)
 
 **Distribution of Fare (right-skewed, log-transform recommended)**
 ![Fare Distribution](task2/images/02_dist_Fare.png)
