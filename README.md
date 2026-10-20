@@ -47,9 +47,6 @@ data visualization, and sentiment analysis using Python.
 
 ### 🖼️ Key Visuals
 
-**Missing Values Heatmap**
-![Missing Values](Task%202/images/01_missing_values.png)
-
 **Distribution of Fare (right-skewed, log-transform recommended)**
 ![Fare Distribution](Task%202/images/02_dist_Fare.png)
 
