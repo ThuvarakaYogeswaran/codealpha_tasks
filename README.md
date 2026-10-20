@@ -54,19 +54,19 @@ analyze distributions, test hypotheses, and uncover patterns in survival.
 ### 🖼️ Key Visuals
 
 **Missing Values Heatmap**
-![Missing Values](task2_eda/images/01_missing_values.png)
+![Missing Values](task2/images/01_missing_values.png)
 
 **Distribution of Fare (right-skewed, log-transform recommended)**
-![Fare Distribution](task2_eda/images/02_dist_Fare.png)
+![Fare Distribution](task2/images/02_dist_Fare.png)
 
 **Correlation Heatmap**
-![Correlation](task2_eda/images/04_correlation_heatmap.png)
+![Correlation](task2/images/04_correlation_heatmap.png)
 
 **Survival Rate by Category**
-![Survival by Category](task2_eda/images/05_survival_by_category.png)
+![Survival by Category](task2/images/05_survival_by_category.png)
 
 **Age & Fare Distribution by Survival**
-![Age Fare by Survival](task2_eda/images/06_age_fare_by_survival.png)
+![Age Fare by Survival](task2/images/06_age_fare_by_survival.png)
 
 ### 📈 Statistical Tests
 
@@ -94,31 +94,31 @@ that communicate insights instantly.
 ### 🖼️ Gallery
 
 **1. Overall Survival Rate (Donut)**
-![Survival Donut](task3_visualization/images/01_survival_donut.png)
+![Survival Donut](task3/images/01_survival_donut.png)
 
 **2. Survival by Class & Sex**
-![Survival by Class Sex](task3_visualization/images/02_survival_by_class_sex.png)
+![Survival by Class Sex](task3/images/02_survival_by_class_sex.png)
 
 **3. Age Distribution by Survival**
-![Age Distribution](task3_visualization/images/03_age_distribution.png)
+![Age Distribution](task3/images/03_age_distribution.png)
 
 **4. Survival by Age Group**
-![Age Group](task3_visualization/images/04_survival_by_age_group.png)
+![Age Group](task3/images/04_survival_by_age_group.png)
 
 **5. Fare Distribution by Class**
-![Fare by Class](task3_visualization/images/05_fare_by_class.png)
+![Fare by Class](task3/images/05_fare_by_class.png)
 
 **6. Survival by Family Size**
-![Family Size](task3_visualization/images/06_family_size.png)
+![Family Size](task3/images/06_family_size.png)
 
 **7. Correlation Heatmap (Focused)**
-![Correlation](task3_visualization/images/07_correlation.png)
+![Correlation](task3/images/07_correlation.png)
 
 **8. Survival by Embarkation Port**
-![Embarked](task3_visualization/images/08_embarked_survival.png)
+![Embarked](task3/images/08_embarked_survival.png)
 
 **9. Dashboard — Executive Summary**
-![Dashboard](task3_visualization/images/09_dashboard.png)
+![Dashboard](task3/images/09_dashboard.png)
 
 ### 🔑 Story Takeaways
 1. **Sex gap is the headline** — 74% female vs 19% male survival.
@@ -148,28 +148,28 @@ or Negative, then visualize patterns.
 ![Sentiment Donut](task4_sentiment/images/01_sentiment_donut.png)
 
 **2. Sentiment Count**
-![Sentiment Count](task4_sentiment/images/02_sentiment_count.png)
+![Sentiment Count](task4/images/02_sentiment_count.png)
 
 **3. Compound Score Distribution**
-![Compound Distribution](task4_sentiment/images/03_compound_distribution.png)
+![Compound Distribution](task4/images/03_compound_distribution.png)
 
 **4. Positive Word Cloud**
-![Positive WordCloud](task4_sentiment/images/04_wordcloud_positive.png)
+![Positive WordCloud](task4/images/04_wordcloud_positive.png)
 
 **5. Negative Word Cloud**
-![Negative WordCloud](task4_sentiment/images/05_wordcloud_negative.png)
+![Negative WordCloud](task4/images/05_wordcloud_negative.png)
 
 **6. Top Words per Sentiment**
-![Top Words](task4_sentiment/images/06_top_words.png)
+![Top Words](task4/images/06_top_words.png)
 
 **7. Component Scores**
-![Component Scores](task4_sentiment/images/07_component_scores.png)
+![Component Scores](task4/images/07_component_scores.png)
 
 **8. Text Length by Sentiment**
-![Length by Sentiment](task4_sentiment/images/08_length_by_sentiment.png)
+![Length by Sentiment](task4/images/08_length_by_sentiment.png)
 
 **9. Dashboard**
-![Sentiment Dashboard](task4_sentiment/images/09_dashboard.png)
+![Sentiment Dashboard](task4/images/09_dashboard.png)
 
 ### 🔑 Key Insights
 1. Sentiment distribution reveals the overall tone of the dataset.
@@ -193,6 +193,4 @@ or Negative, then visualize patterns.
 | **Statistics** | scipy.stats |
 | **NLP** | NLTK (VADER), re (regex) |
 
-### Install all dependencies
-```bash
-pip install -r requirements.txt
+---
