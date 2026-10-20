@@ -1,0 +1,31 @@
+text,clean_text,pos,neu,neg,compound,sentiment
+I absolutely love this product! Best purchase ever.,i absolutely love this product best purchase ever,0.635,0.365,0.0,0.8655,Positive
+This is the worst experience I've ever had. Terrible service.,this is the worst experience i ve ever had terrible service,0.0,0.526,0.474,-0.802,Negative
+"The movie was okay, nothing special but not bad either.",the movie was okay nothing special but not bad either,0.377,0.505,0.118,0.5568,Positive
+Amazing quality and fast delivery. Highly recommend!,amazing quality and fast delivery highly recommend,0.569,0.431,0.0,0.7645,Positive
+Disappointed with the customer support. Very rude.,disappointed with the customer support very rude,0.206,0.306,0.488,-0.5709,Negative
+"Just got my order, everything looks great so far.",just got my order everything looks great so far,0.339,0.661,0.0,0.6249,Positive
+Not worth the price. Would not buy again.,not worth the price would not buy again,0.0,0.808,0.192,-0.1695,Negative
+Fantastic! Exceeded all my expectations.,fantastic exceeded all my expectations,0.474,0.526,0.0,0.5574,Positive
+"It's fine. Does the job, nothing more.",it s fine does the job nothing more,0.231,0.769,0.0,0.2023,Positive
+"Horrible packaging, product arrived damaged.",horrible packaging product arrived damaged,0.0,0.319,0.681,-0.7506,Negative
+"Super happy with this purchase, will buy again!",super happy with this purchase will buy again,0.559,0.441,0.0,0.8225,Positive
+Meh. Expected more based on the reviews.,meh expected more based on the reviews,0.0,0.822,0.178,-0.0772,Negative
+Outstanding quality and fantastic customer service!,outstanding quality and fantastic customer service,0.655,0.345,0.0,0.8225,Positive
+Waste of money. Completely useless.,waste of money completely useless,0.0,0.337,0.663,-0.7089,Negative
+"Pretty good overall, minor issues but works well.",pretty good overall minor issues but works well,0.573,0.427,0.0,0.6908,Positive
+I'm extremely satisfied with this. Great value!,i m extremely satisfied with this great value,0.762,0.238,0.0,0.8622,Positive
+The worst customer experience I've ever had.,the worst customer experience i ve ever had,0.0,0.594,0.406,-0.6249,Negative
+"Decent product, but shipping took way too long.",decent product but shipping took way too long,0.0,1.0,0.0,0.0,Neutral
+Absolutely love it! Perfect gift for my mom.,absolutely love it perfect gift for my mom,0.694,0.306,0.0,0.9073,Positive
+Broken on arrival. Requested a refund immediately.,broken on arrival requested a refund immediately,0.0,0.617,0.383,-0.4767,Negative
+This exceeded my expectations. Amazing!,this exceeded my expectations amazing,0.487,0.513,0.0,0.5859,Positive
+Would not recommend. Poor quality materials.,would not recommend poor quality materials,0.295,0.462,0.244,0.1139,Positive
+Good product for the price. Happy with it.,good product for the price happy with it,0.524,0.476,0.0,0.765,Positive
+Terrible. Nothing works as advertised.,terrible nothing works as advertised,0.0,0.563,0.437,-0.4767,Negative
+Best thing I've bought all year. 10/10!,best thing i ve bought all year,0.457,0.543,0.0,0.6369,Positive
+"Not bad, but could be better.",not bad but could be better,0.591,0.409,0.0,0.698,Positive
+Excellent service and quick response time!,excellent service and quick response time,0.425,0.575,0.0,0.5719,Positive
+Very disappointing. Not what I expected.,very disappointing not what i expected,0.0,0.534,0.466,-0.5413,Negative
+Love love love this! So happy with my purchase.,love love love this so happy with my purchase,0.768,0.232,0.0,0.9558,Positive
+Average product. Nothing to write home about.,average product nothing to write home about,0.0,1.0,0.0,0.0,Neutral
